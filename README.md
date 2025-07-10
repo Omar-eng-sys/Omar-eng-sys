@@ -2,8 +2,6 @@
 
 <p align="center">💻 Web Developer | 🎨 Designer | 🛡️ Cybersecurity Enthusiast</p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-nasser-74226630b"> <!-- LinkedIn Profile -->
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Born%20to%20hustle%2C%20in%20Silence;Welcome%20to%20my%20GitHub;Follow%20me%20on%20LinkedIn&font=Fira%20Code&center=true&color=1FC11B&pause=2000">
