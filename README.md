@@ -75,8 +75,8 @@
 - 🎨 [Mondrian CSS Layout](https://github.com/Omar-eng-sys/MonderianCSSproject)  
   A fully responsive CSS art piece inspired by Piet Mondrian using CSS Grid.
 
-- 📦 [Responsive Portfolio](https://github.com/Omar-eng-sys/MyPortfolio)  
-  Personal portfolio showcasing projects, design, and skills with animation effects.
+- 📦 [CSS - poster ](https://github.com/Omar-eng-sys/Css-practice.git)  
+  Practice on CSS basics , making (Arabic) social media poster.
 
 - 🔐 [TryHackMe Labs](https://tryhackme.com/p/OmarNasser)  
   Hands-on cybersecurity challenges, labs, and notes.
