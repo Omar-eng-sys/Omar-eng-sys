@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # كل يوم الساعة 12 بالليل
+    - cron: "0 0 * * *"  # كل يوم
   workflow_dispatch:
 
 jobs:
@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-pacman
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Generate Pacman Graph
-        uses: platane/pacman@v1
+        uses: Platane/snk@v3
         with:
           github_user_name: Omar-eng-sys
-          mode: time
-          output: |
+          outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg
+          theme: pacman
 
-      - name: Commit & Push Pacman Graph
+      - name: Commit & Push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
