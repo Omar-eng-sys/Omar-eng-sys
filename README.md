@@ -115,13 +115,6 @@
 
 
 
-## ⚡ Fun Facts
-
-- 🧠 I memorize JavaScript error messages in my sleep  
-- 🎮 When I'm not coding, I'm debugging my coffee machine  
-- 🕶️ I believe dark mode improves productivity — prove me wrong 😎
-
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Omar-eng-sys&color=blue)
 ![Followers](https://img.shields.io/github/followers/Omar-eng-sys?label=Followers&style=social)
