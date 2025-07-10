@@ -8,7 +8,9 @@
   </a>
 </p>
 
-
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=Omar-eng-sys&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
 
 ## 🌐 Connect with Me
 
