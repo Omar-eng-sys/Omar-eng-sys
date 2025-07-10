@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Omar Nasser</h1>
+ <h1 align="center">👋 Hi, I'm Omar Nasser</h1>
 
 <p align="center">💻 Web Developer | 🎨 Designer | 🛡️ Cybersecurity Enthusiast</p>
 
@@ -111,7 +111,6 @@ I love creating interactive websites that blend logic and visual beauty, and I'm
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-eng-sys/Omar-eng-sys/main/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omar-eng-sys/Omar-eng-sys/main/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ---
 
