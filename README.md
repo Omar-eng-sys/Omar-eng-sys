@@ -9,7 +9,6 @@
 </p>
 
 
----
 
 ## 🌐 Connect with Me
 
@@ -40,7 +39,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -68,7 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
 </div>
 
----
 
 ## 🚀 Featured Projects
 
@@ -81,19 +79,19 @@
 - 🔐 [TryHackMe Labs](https://tryhackme.com/p/OmarNasser)  
   Hands-on cybersecurity challenges, labs, and notes.
 
----
+
 
 ## 📄 Resume
 
 📥 [Download my CV](https://drive.google.com/file/d/1Hs7Xr5RSAaU_dRjDctbz5RM_63IwwvFQ/view?usp=sharing)
 
----
+
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&theme=dracula&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -102,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dracula" height="150" />
 </div>
 
----
+
 
 ## 🎮 Contribution Activity
 
@@ -113,7 +111,7 @@
 </picture>
 
 
----
+
 
 ## ⚡ Fun Facts
 
@@ -121,7 +119,7 @@
 - 🎮 When I'm not coding, I'm debugging my coffee machine  
 - 🕶️ I believe dark mode improves productivity — prove me wrong 😎
 
----
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Omar-eng-sys&color=blue)
 ![Followers](https://img.shields.io/github/followers/Omar-eng-sys?label=Followers&style=social)
