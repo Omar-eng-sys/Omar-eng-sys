@@ -4,10 +4,12 @@
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-nasser-74226630b"> <!-- LinkedIn Profile -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Born%20to%20hustle%2C%20in%20Silence;Welcome%20to%20my%20GitHub;Follow%20me%20on%20LinkedIn&font=Fira%20Code&center=true&color=1FC11B&pause=2000">
+  </a>
+</p>
 
-I'm a passionate Front-End Developer with a love for clean UI/UX, and a solid background in graphic design & cybersecurity.  
-I love creating interactive websites that blend logic and visual beauty, and I'm always open to collaborations and challenges!
 
 ---
 
