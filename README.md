@@ -75,11 +75,11 @@
 - 🎨 [Mondrian CSS Layout](https://github.com/Omar-eng-sys/MonderianCSSproject)  
   A fully responsive CSS art piece inspired by Piet Mondrian using CSS Grid.
 
-- 📦 [CSS - poster ](https://github.com/Omar-eng-sys/Css-practice.git)  
-  Practice on CSS basics , making (Arabic) social media poster.
+- 📦 [Moving company](https://github.com/Omar-eng-sys/MovingCompanyProject.git)  
+  Practice on bootstrap framework , making (fictional) moving comapny website.
 
-- 🔐 [TryHackMe Labs](https://tryhackme.com/p/OmarNasser)  
-  Hands-on cybersecurity challenges, labs, and notes.
+- 🔐 [Alien-Themed Auth UI](https://github.com/Omar-eng-sys/SignUp-LoginAlienTheme.git)  
+  An eye-catching alien-themed **Login** and **Sign Up** interface built from scratch using **HTML** and **Pure CSS**, based on custom UI design made in **Figma**.
 
 
 
