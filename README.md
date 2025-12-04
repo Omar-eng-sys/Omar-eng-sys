@@ -85,7 +85,8 @@
 
 ## 📄 Resume
 
-📥 [Download my CV](https://drive.google.com/file/d/1Hs7Xr5RSAaU_dRjDctbz5RM_63IwwvFQ/view?usp=sharing)
+🌐 [Online Version](https://omar-eng-sys.github.io/Resume)
+📥 [PDF version](https://drive.google.com/file/d/1DQpL5AqBAduJv2mWLdyb1KzsYPBcp6Mi/view?usp=sharing)
 
 
 
