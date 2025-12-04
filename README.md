@@ -85,7 +85,7 @@
 
 ## 📄 Resume
 
-🌐 [Online Version](https://omar-eng-sys.github.io/Resume)
+🌐 [Online Version](https://omar-eng-sys.github.io/Resume)</br>
 📥 [PDF version](https://drive.google.com/file/d/1DQpL5AqBAduJv2mWLdyb1KzsYPBcp6Mi/view?usp=sharing)
 
 
