@@ -77,16 +77,11 @@
 
 
 
-## 🏆 GitHub Trophies
+## 🚀 GitHub Summary
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-eng-sys&theme=dracula&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-eng-sys&theme=dracula" alt="GitHub Profile Summary" />
+</p>
 
 
 ## 🎮 Contribution Activity
