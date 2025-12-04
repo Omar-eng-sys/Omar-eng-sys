@@ -70,19 +70,6 @@
 </div>
 
 
-## 🚀 Featured Projects
-
-- 🎨 [Mondrian CSS Layout](https://github.com/Omar-eng-sys/MonderianCSSproject)  
-  A fully responsive CSS art piece inspired by Piet Mondrian using CSS Grid.
-
-- 📦 [Moving company](https://github.com/Omar-eng-sys/MovingCompanyProject.git)  
-  Practice on bootstrap framework , making (fictional) moving comapny website.
-
-- 🔐 [Alien-Themed Auth UI](https://github.com/Omar-eng-sys/SignUp-LoginAlienTheme.git)  
-  An eye-catching alien-themed **Login** and **Sign Up** interface built from scratch using **HTML** and **Pure CSS**, based on custom UI design made in **Figma**.
-
-
-
 ## 📄 Resume
 
 🌐 [Online Version](https://omar-eng-sys.github.io/Resume)</br>
@@ -92,13 +79,13 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&theme=onedark&margin-w=15&margin-h=15&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&theme=gitdimmed&margin-w=15&margin-h=15&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-eng-sys&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-eng-sys&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dark&hide_border=true&langs_count=8" height="150" alt="languages graph" />
 </div>
 
 
