@@ -75,25 +75,20 @@
 🌐 [Online Version](https://omar-eng-sys.github.io/Resume) </br>
 📥 [PDF version](https://drive.google.com/file/d/1DQpL5AqBAduJv2mWLdyb1KzsYPBcp6Mi/view?usp=sharing)
 
-
-
-## 🚀 GitHub Summary
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omar-eng-sys&theme=dracula" alt="GitHub Profile Summary" />
-</p>
-
-
 ## 🎮 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-eng-sys/Omar-eng-sys/main/output/pacman-contribution-graph-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-eng-sys/Omar-eng-sys/main/output/pacman-contribution-graph.svg?v=1">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Graph">
-</picture>
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-eng-sys&theme=dracula&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Omar-eng-sys&color=blue)
