@@ -79,13 +79,13 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&theme=gitdimmed&margin-w=15&margin-h=15&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&theme=dracula&margin-w=10&margin-h=15&no-bg=true&v=2025)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-eng-sys&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dark&hide_border=true&langs_count=8" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-eng-sys&show_icons=true&count_private=true&theme=dracula&hide_border=true&v=2025" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2025" height="150" alt="languages graph" />
 </div>
 
 
