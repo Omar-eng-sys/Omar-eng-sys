@@ -1,6 +1,6 @@
  <h1 align="center">👋 Hi, I'm Omar Nasser</h1>
 
-<p align="center">💻 Web Developer | 🎨 Designer | 🛡️ Cybersecurity Enthusiast</p>
+<p align="center">💻 Web Developer | 🎨 Designer | 👨‍💻 System Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-nasser-74226630b"> <!-- LinkedIn Profile -->
@@ -72,20 +72,20 @@
 
 ## 📄 Resume
 
-🌐 [Online Version](https://omar-eng-sys.github.io/Resume)</br>
+🌐 [Online Version](https://omar-eng-sys.github.io/Resume) </br>
 📥 [PDF version](https://drive.google.com/file/d/1DQpL5AqBAduJv2mWLdyb1KzsYPBcp6Mi/view?usp=sharing)
 
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&theme=dracula&margin-w=10&margin-h=15&no-bg=true&v=2025)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omar-eng-sys&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-eng-sys&show_icons=true&count_private=true&theme=dracula&hide_border=true&v=2025" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2025" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-eng-sys&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-eng-sys&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 
