@@ -1,6 +1,6 @@
  <h1 align="center">👋 Hi, I'm Omar Nasser</h1>
 
-<p align="center">💻 Web Developer | 🎨 Designer | 👨‍💻 System Engineer</p>
+<p align="center">💻 RHEL System Administrator | 👨‍💻 DevOps Engineer </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-nasser-abdulhai/"> <!-- LinkedIn Profile -->
