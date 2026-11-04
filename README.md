@@ -3,7 +3,7 @@
 <p align="center">💻 Web Developer | 🎨 Designer | 👨‍💻 System Engineer</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-nasser-74226630b"> <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/omar-nasser-abdulhai/"> <!-- LinkedIn Profile -->
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Born%20to%20hustle%2C%20in%20Silence;Welcome%20to%20my%20GitHub;Follow%20me%20on%20LinkedIn&font=Fira%20Code&center=true&color=1FC11B&pause=2000">
   </a>
 </p>
@@ -15,7 +15,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/omar-nasser-74226630b" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-nasser-abdulhai/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
   <a href="https://www.instagram.com/omar____nasser____" target="_blank">
@@ -72,8 +72,7 @@
 
 ## 📄 Resume
 
-🌐 [Online Version](https://omar-eng-sys.github.io/Resume) </br>
-📥 [PDF version](https://drive.google.com/file/d/1DQpL5AqBAduJv2mWLdyb1KzsYPBcp6Mi/view?usp=sharing)
+📥 [PDF version](https://docs.google.com/document/d/1VIfpzxHYWCRzn7lb-loCesfbqo31ggK4ArSKOU145hw/edit?usp=sharing)
 
 ## 🎮 Contribution Activity
 
